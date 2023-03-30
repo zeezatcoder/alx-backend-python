@@ -3,6 +3,6 @@
 '''
 
 
-def to_str(n: float) -> str
+def to_str(a: float) -> str:
 
-return str(n)
+return str(a)
