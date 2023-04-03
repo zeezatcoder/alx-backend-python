@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''code from wait_n and alter it into a new function
+'''code from wait_n and alter it into a new function.
 '''
 import asyncio
 from typing import List
